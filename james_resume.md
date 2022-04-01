@@ -5,6 +5,8 @@ title: James Chan's Resume
 # James Chan
 Junior at Brigham Young University Idaho
 
+IAN WAS HERE
+
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
